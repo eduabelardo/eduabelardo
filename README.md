@@ -1,21 +1,21 @@
 # Eduardo-Abelardo
 About me
-<h1 align="center">Hi 👋, I'm Eduardo Abelardo</h1>
+<h1 align="center">Hi 👋, I'm Edu</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **a groupal project for Henry's Bootcamp, It is a Trivia App to play with your friends. I am currently working on the Back End**
+- 🔭 I’m currently working as a Front En Developer in Hexahon Consulting
 
-- 🌱 I’m currently learning **PHP**
+- 🌱  I am outgoing, with skills for teamwork, eager to grow and improve in this profession that I am so passionate about.
 
-- 👨‍💻 All of my projects are available at my GitHub profile
+- 👨‍💻 You can check out my projects in mi porfolio: https://eduardoportfolio.vercel.app/
 
-- 💬 Ask me about **React, Redux, Node Js**
+- 💬 Ask me about **JavaScript, React, Redux, Node Js, Express js, Sequalize, Sap-Fiori**
 
 - 📫 How to reach me **eduardoabelardo@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eduardo-andres-abelardo/](https://www.linkedin.com/in/eduardo-andres-abelardo/)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ About me:  ** I speak Spanish and English, and what I like the most about this profession is the possibility of getting to know , work and communicate with people from different cultures.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
